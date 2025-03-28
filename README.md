@@ -1,7 +1,7 @@
 # Project details:
 ## Project Name: Puzzle solver with customized huristic for informed searches
 ### Table of Contents:
--[installation](#installation)
+- [installation](#installation)
 
 -[usage](#usage)
 
